@@ -1,2 +1,2 @@
-# WBD
-SQL data base and JavaFX application Client-Employee
+# WBD - Wstęp do bazy danych - Telefonia Komórkowa
+SQL database and JavaFX application Client-Employee
